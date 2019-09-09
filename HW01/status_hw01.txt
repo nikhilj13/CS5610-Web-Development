@@ -1,0 +1,28 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Nikhil Nikhil
+
+2. Which VPS & domain providers did you choose?
+Vultr and Joker.
+
+3. What domain name did you register?
+www.cs5610nikhil.website
+
+4. Which parts of this assignment did you have trouble with, if any?
+None. 
+
+5. Whats the URL for your git repository?
+https://github.com/nikhilj13/CS5610-Web-Development
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
