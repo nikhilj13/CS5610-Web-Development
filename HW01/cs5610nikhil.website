@@ -2,7 +2,7 @@ server {
         listen 80; 
         listen [::]:80; 
  
-        root /home/nikhil/www/cs5610nikhil.website; 
+        root /home/nikhil/www/main; 
  
         index index.html; 
  
