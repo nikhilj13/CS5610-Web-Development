@@ -1,0 +1,40 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Nikhil Nikhil
+
+2. What hostname did you deploy to?
+hw02.cs5610nikhil.website
+
+3. What's the link to your repository on github with your code?
+https://github.com/nikhilj13/CS5610-Web-Development
+
+4. How many HTML / CSS tutorial exercises did you do?
+~40
+
+5. How comfortable do you feel with HTML and CSS now?
+Pretty comfortable, I knew HTML and CSS before before starting this class.
+
+6. How many JS tutorial exercises did you do?
+~15
+
+7. How comfortable do you feel with JS now?
+Pretty comfortable, I've worked with JS and React before.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Yes!
+
+9. Which parts of this assignment did you have trouble with, if any?
+I had some trouble with understanding the intended behavior for the calculator. 
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
